@@ -80,7 +80,8 @@ Creating this Library Management System offered insights into basic system desig
 
 
 
-code in actions screenshots : 
+Code in action screenshot, adding books and taking books>
+
 <img width="1470" alt="Screenshot 2024-03-07 at 12 21 37 AM" src="https://github.com/thatmano3wyrowhgafsa09gwabgao/alieelsporjec/assets/143622028/f3bb5486-c744-407c-9a41-9ea3dddc81bc">
 
 <img width="1470" alt="Screenshot 2024-03-07 at 12 18 33 AM" src="https://github.com/thatmano3wyrowhgafsa09gwabgao/alieelsporjec/assets/143622028/93d67c3f-170c-4634-9447-ce879517fbe4">
